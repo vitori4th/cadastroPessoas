@@ -26,7 +26,7 @@ Para rodar esse programa você precisa ter Python instalado no seu computador.
 **Clonando o Repositório**
 
 ```
-$ git clone git@github.com:Vitoria-th/Cadastro-Pessoas.git
+$ git clone git@github.com:vitori4th/Cadastro-Pessoas.git
 
 $ cd Cadastro-Pessoas
 ```
